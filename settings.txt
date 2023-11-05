@@ -1,0 +1,23 @@
+look_back=8.0
+relative_weight=8.0
+start_reg=25
+lag=2
+atr_period=32
+atr_multi=2.7
+heikin_ashi=off
+
+//Set Symbol
+QNTUSDT,1h,7
+XRPUSDT,2h,7
+MATICUSDT,4h,7
+SEIUSDT,6h,7
+ADAUSDT,8h,7
+AAVEUSDT,12h,7
+EOSUSDT,1d,7
+LINKUSDT,1d,7
+
+
+
+
+
+
